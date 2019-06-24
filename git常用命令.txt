@@ -5,5 +5,6 @@ git pull--获取服务器中最新文件
 git commit -m "注释"--提交到本地仓库
 git push--提交到远程仓库
 git reset HEAD <filename>
+https://github.com/hgkj-rj/hgkj_01.git
 
 
